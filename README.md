@@ -1,4 +1,4 @@
-# Airflow Setup
+ # Airflow Setup
 
 This repository contains a Docker Compose setup for Apache Airflow with a PostgreSQL metadata database.
 
